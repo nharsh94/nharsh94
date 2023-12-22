@@ -1,14 +1,7 @@
 [**Hello, I'm Noah**](https://www.linkedin.com/in/noah-harshbarger/) 
 - 
 🦣🦣🦣🦣🦣🦣
+Software student, well-versed in JavaScript, Python, HTML, and CSS. 
+Interested in fullstack development, with experience in system administration and web design.
 
-
-- I'm interested in Javascript🐍, HTML5️⃣ / CSS3️⃣, and JavaScript🍵!
-- Currently studying at Galvanize, Inc.
-- I'm looking to collaborate on all things mentioned ⬆️, as well as front-end development.
-
-
-🦣🦣🦣🦣🦣🦣
-
-
-**You can reach me here! You can also reach me on Linkedin, or as wandering_mastodon.**
+This is a collection of my projects thus far. 
