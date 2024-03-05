@@ -14,4 +14,5 @@ I'm also studying information security 🔒 and CI/CD.
 
 > You can reach me at noahharshb@gmail.com
 
-[https://www.codewars.com/users/herbAsher/badges/small]
+![](https://www.codewars.com/users/herbAsher/badges/small)
+
