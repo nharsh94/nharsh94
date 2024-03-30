@@ -37,8 +37,7 @@ Currently Running 💨:
 ![Powershell Logo Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Logo Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-### 🌱 I’m currently learning DevSecOps and AI tech @ HackReactor ⚙️
-I'm also studying information security 🔒 and CI/CD. 
+### 🌱 I'm studying information security 🔒 and CI/CD.  ⚙️
 
 OS Experience <br>
 ![Linux Logo Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
