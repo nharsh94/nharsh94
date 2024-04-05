@@ -2,8 +2,6 @@
 ---
 ![](https://www.codewars.com/users/herbAsher/badges/small)
 ---
-I'm a fullstack engineer and continuous student, focusing on system architecture. 
-
 Currently Running 💨:
 - [x] Languages <br>
 ![CSS Logo Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
