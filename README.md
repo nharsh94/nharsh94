@@ -1,4 +1,6 @@
-# Hi, I’m Noah (he/him). I've been around computers since 1999 -- so much so, I decided to dedicate my professional life to it. 
+# Hi, I’m Noah
+## (he/him)
+### My hobbies (at the moment): OOP, EduTech 📔, and reading old Sci-Fi 🚀
 ---
 ![](https://www.codewars.com/users/herbAsher/badges/small)
 ---
