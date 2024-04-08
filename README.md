@@ -1,4 +1,4 @@
-# Hi, I’m Noah (he/him)
+# Hi, I’m Noah (he/him). I've been around computers since 1999 -- so much so, I decided to dedicate my professional life to it. 
 ---
 ![](https://www.codewars.com/users/herbAsher/badges/small)
 ---
