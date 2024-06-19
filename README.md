@@ -1,7 +1,5 @@
 # Noah (he/him)
 
-My hobbies (at the moment): Object-Oriented Programming, EduTech 📔, and reading old Sci-Fi 🚀
-
 ---
 ![](https://www.codewars.com/users/herbAsher/badges/small)
 ---
